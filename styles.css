@@ -1,0 +1,102 @@
+.container{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.seven: first-child, .eight: first-child, .nine: first-child, .ten: first-child, .eleven: first-child, .five: first-child, .four: first-child, 
+.three: first-child, .two: first-child, .one: first-child, .six: first-child{
+	margin-left:0;
+
+}
+
+.eleven{
+	width: 91.5%;
+	float:left;
+	margin-left:2%;
+}
+.ten{
+	width:83%;
+	float:left;
+	margin-left:2%;
+}
+
+.nine{
+	width:79.5%;
+	float:left;
+	margin-left:2%;
+
+}
+
+.eight{
+    width:66%;
+    float:left;
+    margin-left: 2%;
+}
+.seven{
+	width:57.5%;
+	float:left;
+	margin:2%;
+}
+.six{
+	width:49%;
+	float:left;
+	margin:2%;
+}
+
+.five{
+	width:40.5%;
+	float: left;
+	margin:2%;
+}
+
+.four{
+     width:32%;
+     float:left;
+     margin:2%;
+}
+
+.three{
+	width:23.5%;
+	float: left;
+	margin:2%;
+}
+
+.two{
+	width: 15%;
+	float: left;
+	margin:2%;
+
+}
+
+.one{
+	width:6.5%;
+	float: left;
+	margin: 2%;
+}
+
+.row{
+	width:100%;
+	clear: both;
+	padding:0px;
+	margin:0px;
+}
+
+header .row1{
+	height: 100px;
+	background-color: gray;
+
+}
+
+header .row1 H1{
+	text-align: center;
+	font-size:60px;
+	padding-top: 25px;
+}
+
+.row.row2{
+	height: 330px;
+	background-color: #1abc9c;
+}
+
+
